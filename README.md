@@ -36,5 +36,5 @@ If above command is successful then we are good to go
 mvn clean test
 ```
 
-all the tests with @Test will run
+all the tests of mentioned suite in pom.xml will run
 
