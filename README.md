@@ -6,7 +6,7 @@ This project is used for Test Infrastructure Workshop
 Install Git : https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ```sh
-git clone https://github.com/Raneesh02/selgrid_kube_aws_oct.git
+git clone <your_repo_url>
 ```
 
 ## Java Installation
