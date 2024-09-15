@@ -9,6 +9,28 @@ Install Git : https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 git clone <your_repo_url>
 ```
 
+You can clone using two ways : 
+
+1. **HTTPS Setup:**
+     - When cloning a repository via HTTPS, you'll need to provide your GitHub username and personal access token (PAT) instead of your password.
+     - Create a [personal access token](https://github.com/settings/tokens) from your GitHub account and use it for HTTPS authentication.
+
+2. **SSH Setup:**
+     - Open Git Bash and generate an SSH key:
+       ```bash
+       ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+       ```
+     - Start the SSH agent and add the SSH key:
+       ```bash
+       eval "$(ssh-agent -s)"
+       ssh-add ~/.ssh/id_rsa
+       ```
+     - Copy the public key to your clipboard:
+       ```bash
+       clip < ~/.ssh/id_rsa.pub
+       ```
+     - Add the key to your GitHub account under **Settings** > **SSH and GPG keys** > **New SSH key**.
+
 ## Java Installation
 
 ```
