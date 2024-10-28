@@ -1,5 +1,5 @@
 ## Introduction
-This project is used for Test Infrastructure Workshop 
+This project is used for QA Infrastructure Workshop : https://www.thetesttribe.com/live-trainings/qa-infra/
 
 ## New to Git ?
 
