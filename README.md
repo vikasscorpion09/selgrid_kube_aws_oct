@@ -25,7 +25,7 @@ its best if you use Intellij for workshop to ensure everyone on same page
 Directly import the project as a maven project
 
 ## Setup Project SDK
-Intellij requires you to set/ choose project SDK , follow this link for the same
+Intellij requires you to set/ choose project SDK , follow this link for the same, you should choose Java 22
 
 https://intellij-support.jetbrains.com/hc/en-us/community/posts/360010215699-Set-up-a-project-SDK
 
