@@ -18,7 +18,7 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/cloni
 ## Java Installation
 
 ```
-https://www.oracle.com/in/java/technologies/downloads/#jdk22-windows
+https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html
 ```
 
 
